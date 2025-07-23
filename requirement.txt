@@ -1,0 +1,44 @@
+# Core
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning / NLP
+scikit-learn==1.5.0
+scipy==1.13.1
+nltk==3.8.1
+
+# Visualizations
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+altair==5.3.0
+
+# Web scraping (optional if you add features like trailers/posters from web)
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# Jupyter Notebook support
+notebook==7.2.0
+jupyterlab==4.2.1
+ipykernel==6.29.4
+
+# Streamlit enhancements
+streamlit-option-menu==0.3.6
+streamlit-lottie==0.0.5
+streamlit-extras==0.4.0
+streamlit-toggle==0.0.3
+
+# For caching and data persistence (optional)
+joblib==1.4.2
+sqlalchemy==2.0.30
+
+# Firebase or cloud (optional)
+firebase-admin==6.5.0
+
+# Compatibility tools
+python-dotenv==1.0.1
+
+# Export to CSV, Excel (optional)
+openpyxl==3.1.2
+xlsxwriter==3.2.0
