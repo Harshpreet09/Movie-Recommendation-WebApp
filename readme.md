@@ -1,6 +1,6 @@
 # Movie-Recommendation-WebApp
 
-CineMatch is an advanced movie/series recommender system powered by Machine Learning and Streamlit. It helps users find what to watch next based on taste, mood, or smart content similarity.
+Movie-Recommendation-WebApp is an advanced movie/series recommender system powered by Machine Learning and Streamlit. It helps users find what to watch next based on taste, mood, or smart content similarity.
 
 ## 🔧 Features
 
